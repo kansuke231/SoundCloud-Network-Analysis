@@ -1,0 +1,62 @@
+users -> 5700
+number of tracks -> 132703
+
+(array([5750927,   30359,    3731,    1050,     369,     207,     118,
+            77,      42,      27,      21,      13,       9,       3,
+             3,       3,       2,       3,       1,       0,       0,
+             0,       0,       0,       0,       0,       0,       0,
+             0,       0,       0,       0,       0,       0,       0,
+             0,       0,       0,       0,       0,       0,       0,
+             0,       0,       0,       0,       0,       0,       0,
+             0,       0,       0,       0,       0,       0,       0,
+             0,       0,       0,       0,       0,       0,       0,
+
+
+('NDCSWX', 'NLEXHO') —> at 19
+155876731  	159570672
+the-weeknd-often	the-weeknd-king-of-the-fall
+
+—————————————————————————————————————————————————————————————————————————
+('NDCSWX', 'LLLCED') at 18
+the-weeknd-often  the-weeknd-or-nah-remix-ft-ty
+
+('KSCTYR', 'MVLAWE') at 18
+drake-trophies drake-0-to-100
+
+('NXCWOR', 'NJIOKJ') at 18
+rae-sremmurd-no-type-prod-by-mike-will-made-it-swae-lee-of-rae-sremmurd
+partynextdoor-recognize-feat-drake
+
+—————————————————————————————————————————————————————————————————————————
+
+('ICXONN', 'MHVWCM') at 17
+disclosure-you-me-flume-remix lorde-tennis-court-flume-remix
+
+
+('MLPVND', 'MVLAWE') at 17
+lil-wayne-believe-me-feat-drake drake-0-to-100
+
+—————————————————————————————————————————————————————————————————————————
+('NSFJWE', 'NJIOKJ') at 16
+"ILOVEMAKONNEN ~ Tuesday Feat. Drake  partynextdoor-recognize-feat-drake
+
+('EZFTXS', 'GKAOUS') at 16
+Latch ft. Sam Smith   White Noise ft. AlunaGeorge
+
+('HKTGZZ', 'IGISGK') at 16
+Drake ~ Girls Love Beyonce Feat. James Fauntleroy
+Drake ~ The Motion Feat. Sampha
+
+—————————————————————————————————————————————————————————————————————————
+
+
+
+
+
+
+
+
+
+
+
+
